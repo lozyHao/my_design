@@ -78,7 +78,7 @@
 
 
 
-![知肺炎 懂防范](https://github.com/lozyHao/my_design/blob/main/${imgs}/知肺炎 懂防范.jpg)
+![知肺炎 懂防范](https://github.com/lozyHao/my_design/blob/main/${imgs}/知肺炎_懂防范.jpg)
 
 
 
@@ -86,7 +86,7 @@
 
 
 
-![Is it dry or live？](https://github.com/lozyHao/my_design/blob/main/${imgs}/Is it dry or live？.jpg)
+![Is it dry or live？](https://github.com/lozyHao/my_design/blob/main/${imgs}/Isitdryorlive？.jpg？.jpg)
 
 
 
