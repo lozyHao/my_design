@@ -86,7 +86,7 @@
 
 
 
-![Is it dry or live？](https://github.com/lozyHao/my_design/blob/main/${imgs}/Isitdryorlive？.jpg？.jpg)
+![Is it dry or live？](https://github.com/lozyHao/my_design/blob/main/${imgs}/Isitdryorlive？.jpg)
 
 
 
